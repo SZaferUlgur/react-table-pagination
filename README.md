@@ -1,5 +1,7 @@
 <img src="./public/menu.png">
 
+ Youtube kanalımdaki video [React Pagination Filter Table React-Icons](https://www.youtube.com/watch?v=-0exw-9YJBo)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
