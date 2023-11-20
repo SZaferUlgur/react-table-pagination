@@ -1,4 +1,4 @@
-<img src="./frontend/public/menu.png">
+<img src="./public/menu.png">
 
 # Getting Started with Create React App
 
